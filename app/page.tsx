@@ -44,7 +44,7 @@ import { WhatsAppShareModal } from '@/components/WhatsAppShareModal';
 import { LandingPage } from '@/components/LandingPage';
 import { MascotBiko } from '@/components/MascotBiko';
 import { STUDENT_GROUPS_CONFIG, ALL_STUDENT_GROUPS, checkStudentNeedsVisit } from '@/lib/grouping-rules';
-import { Student } from '@/lib/types';
+import { Student, JournalEntry } from '@/lib/types';
 
 export default function HomePage() {
   const { 
