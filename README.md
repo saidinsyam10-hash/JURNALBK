@@ -164,3 +164,5 @@ Jika ingin menghubungkan langsung ke layanan cloud Supabase:
    NEXT_PUBLIC_SUPABASE_ANON_KEY=kunci-anon-anda
    ```
 5. Restart server pengembangan (`npm run dev`).
+#   j u r n a l b k m a n  
+ 
